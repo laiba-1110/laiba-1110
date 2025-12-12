@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Laiba Ashfaq  
+Software Engineer
 
-<!--
-**laiba-1110/laiba-1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clear and helpful software with a focus on clean code and steady problem solving. I enjoy making tools that save time and cut noise for users.
 
-Here are some ideas to get you started:
+## What I work on
+- Web apps  
+- API work  
+- Data tasks  
+- Fixing bugs and improving old code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- Python  
+- JavaScript  
+- React  
+- Node  
+- SQL  
+- Git
+
+## What you can find here
+Small tools, practice projects and code I learn from.
+
+## Contact
+Feel free to reach out if you want to talk about an idea or want help with a task.
